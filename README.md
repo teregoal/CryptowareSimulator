@@ -2,7 +2,7 @@ Subject     : Cryptoware Simulator
 Version     : 20240724
 Author      : Teregoal
 
-This scipt ...
+This script ...
 
 ... is free to use
 ... is to use at your own risk and resposibility
